@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 10px;
+  font-family: "Consolas", monospace;
+}
+body {
+  font-size: 1.6rem;
+  background-color: #151515;
+  color: #fff;
+  padding: 8rem;
+}
